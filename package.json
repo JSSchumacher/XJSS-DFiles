@@ -1,7 +1,7 @@
 {
-    "name": "xeonjss dfiles",
-    "version": "1.0.0",
-    "description": "files used by Xeon (JSSchumacher) when creating a project",
+    "name": "xjss-dfiles",
+    "version": "1.0.1",
+    "description": "Files used by Xeon (JSSchumacher) when creating a project",
     "author": {
     "name": "Joshua Schumacher",
     "email": "contact@joshuaschumacher.com",

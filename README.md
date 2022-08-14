@@ -3,13 +3,16 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/joshuaschumacher.com">
-  <img align="center" src="https://img.shields.io/github/issues/JSSchumacher/joshuaschumacher.com">
+  <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/XJSS-DFiles">
+  <img align="center" src="https://img.shields.io/github/last-commit/JSSchumacher/XJSS-DFiles">
+  <img align="center" src="https://img.shields.io/github/license/JSSchumacher/XJSS-DFiles">
+  <img align="center" src="https://img.shields.io/github/issues-raw/JSSchumacher/XJSS-DFiles">
+  <img align="center" src="https://img.shields.io/github/forks/JSSchumacher/XJSS-DFiles?style=social">
 </p>
 
-# XeonJSS DFiles
+# XJSS-DFiles
 ### Name
-XeonJSS DFiles - Xeon JSSchumacher Default Files
+XJSS-DFiles - Xeon JSSchumacher-Default Files
 
 ### Description:
 Files used by Xeon (JSSchumacher) when creating a project
