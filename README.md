@@ -1,3 +1,5 @@
+# **<p align="center">⚠️ XJSS-DFiles has now be replaced with [SCHEMA](https://github.com/JSSchumacher/SCHEMA) ⚠️</p>**
+
 <p align="center" href="https://github.com/JSSchumacher/joshuaschumacher.com">
   <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/JSS/JSS.png" />
 </p>
